@@ -1,7 +1,7 @@
 # DBMSMCQPractice
 
 
-## Day 1 Total Attempted - ()
+## Day 1 Total Attempted - (50)
 
 #### Link - GFG ( https://www.geeksforgeeks.org/50-dbms-mcqs-with-answers/ )
 
